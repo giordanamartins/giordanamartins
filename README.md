@@ -1,7 +1,7 @@
 # Hi, I'm Giordana! ✨
 
 🎓 Computer Science student at UFFS (in progress)<br/>
-💻 Focused on Full-Stack Development with JavaScript<br/>
+💻 Focused on Full-Stack Development with JavaScript (Node.js)<br/>
 🔌 Currently working with systems integration and APIs<br/>
 
 ## Tech Stack 💻
