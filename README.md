@@ -10,8 +10,7 @@
 
 ## 🚀 Featured Projects
 
-- 📊 [Projeto Integrador](https://github.com/giordanamartins/projeto-integrador)  
-- ⏱️ [Pomodoro Timer](https://github.com/giordanamartins/pomodoro-timer)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giordanamartins&repo=projeto-integrador&theme=shadow_red)](https://github.com/giordanamartins/projeto-integrador) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giordanamartins&repo=pomodoro-timer&theme=shadow_red)](https://github.com/giordanamartins/pomodoro-timer)
 
 ## 🧠 Soft Skills
 
@@ -27,7 +26,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giordanamartins&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giordanamartins&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giordanamartins&show_icons=true&theme=shadow_red) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=giordanamartins&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=shadow_red)
+
 
 ## 🌐 Find Me
 
