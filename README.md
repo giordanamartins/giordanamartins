@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giordanamartins&show_icons=true&theme=shadow_red) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=giordanamartins&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=shadow_red)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giordanamartins&show_icons=true&theme=shadow_red) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=giordanamartins&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=shadow_red)
 
 
 ## 🌐 Find Me
