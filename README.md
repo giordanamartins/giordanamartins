@@ -22,6 +22,7 @@
 
 ## 📚 Currently Learning
 
+- Front-end Development with Bootstrap & UI/UX Principles
 - Advanced JavaScrpit and TypeScript
 - Clean Code & Software Architecture  
 
