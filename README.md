@@ -10,7 +10,6 @@
 [![Phoenix](https://img.shields.io/badge/phoenix-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=white)](https://www.phoenixframework.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Erlang](https://img.shields.io/badge/erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white)](https://www.erlang.org/)
-[![Zotonic](https://img.shields.io/badge/zotonic-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white)](https://zotonic.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
@@ -22,11 +21,6 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
   
-
-## 🚀 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giordanamartins&repo=projeto-integrador&theme=shadow_red)](https://github.com/giordanamartins/projeto-integrador) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giordanamartins&repo=combinatorial-optimization-lab&theme=shadow_red)](https://github.com/giordanamartins/combinatorial-optimization-lab)
-
 ## 🧠 Soft Skills
 
 - Teamwork & Communication  
@@ -41,11 +35,6 @@
 - Front-end Development with Tailwind CSS & UI/UX Principles
 - Advanced JavaScrpit and TypeScript- Clean Code, Testing, and Scalable Software Architecture
   
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giordanamartins&show_icons=true&theme=shadow_red) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=giordanamartins&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=shadow_red)
-
-
 ## 🌐 Find Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giordanakm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giordana-martins)
