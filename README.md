@@ -31,21 +31,26 @@ At **Abensoft**, I work on **Superleme**, a real estate management platform buil
 
 ## 🚀 Featured Projects
 
-### Casa Ruptura
-
-Management system for a tattoo & piercing studio — scheduling, clients, and financial control.
-
-[![Casa Ruptura](https://raw.githubusercontent.com/giordanamartins/giordanamartins/main/assets/casa-ruptura.png)](https://github.com/giordanamartins/casa-ruptura)
-
-`React` · `Vite` · `Tailwind` · `shadcn/ui` · `Node.js` · `Express` · `Prisma` · `PostgreSQL`
-
-### Projeto Integrador
-
-Full-stack Computer Science web application integrating Programming II, Databases, and Software Engineering.
-
-[![Projeto Integrador](https://raw.githubusercontent.com/giordanamartins/giordanamartins/main/assets/projeto-integrador.png)](https://github.com/giordanamartins/projeto-integrador)
-
-`Node.js` · `Express` · `PostgreSQL` · `Axios` · `Tailwind`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Casa Ruptura</h3>
+      <p>Management system for a tattoo &amp; piercing studioscheduling, clients, and financial control.</p>
+      <a href="https://github.com/giordanamartins/casa-ruptura">
+        <img src="https://raw.githubusercontent.com/giordanamartins/giordanamartins/main/assets/casa-ruptura.png" alt="Casa Ruptura" width="100%" />
+      </a>
+      <p><code>React</code> · <code>Vite</code> · <code>Tailwind</code> · <code>shadcn/ui</code> · <code>Node.js</code> · <code>Express</code> · <code>Prisma</code> · <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Projeto Integrador</h3>
+      <p>Full-stack Computer Science web application integrating Programming II, Databases, and Software Engineering.</p>
+      <a href="https://github.com/giordanamartins/projeto-integrador">
+        <img src="https://raw.githubusercontent.com/giordanamartins/giordanamartins/main/assets/projeto-integrador.png" alt="Projeto Integrador" width="100%" />
+      </a>
+      <p><code>Node.js</code> · <code>Express</code> · <code>PostgreSQL</code> · <code>Axios</code> · <code>Tailwind</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
