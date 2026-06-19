@@ -35,7 +35,7 @@ At **Abensoft**, I work on **Superleme**, a real estate management platform buil
   <tr>
     <td width="50%" valign="top">
       <h3>Casa Ruptura</h3>
-      <p>Management system for a tattoo &amp; piercing studioscheduling, clients, and financial control.</p>
+      <p>Management system for a tattoo &amp; piercing studio: scheduling, clients, and financial control.</p>
       <a href="https://github.com/giordanamartins/casa-ruptura">
         <img src="https://raw.githubusercontent.com/giordanamartins/giordanamartins/main/assets/casa-ruptura.png" alt="Casa Ruptura" width="100%" />
       </a>
