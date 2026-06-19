@@ -35,7 +35,7 @@ At **Abensoft**, I work on **Superleme**, a real estate management platform buil
 
 Management system for a tattoo & piercing studio — scheduling, clients, and financial control.
 
-[![Casa Ruptura](./assets/casa-ruptura.png)](https://github.com/giordanamartins/casa-ruptura)
+[![Casa Ruptura](https://raw.githubusercontent.com/giordanamartins/giordanamartins/main/assets/casa-ruptura.png)](https://github.com/giordanamartins/casa-ruptura)
 
 `React` · `Vite` · `Tailwind` · `shadcn/ui` · `Node.js` · `Express` · `Prisma` · `PostgreSQL`
 
@@ -43,7 +43,7 @@ Management system for a tattoo & piercing studio — scheduling, clients, and fi
 
 Full-stack Computer Science web application integrating Programming II, Databases, and Software Engineering.
 
-[![Projeto Integrador](./assets/projeto-integrador.png)](https://github.com/giordanamartins/projeto-integrador)
+[![Projeto Integrador](https://raw.githubusercontent.com/giordanamartins/giordanamartins/main/assets/projeto-integrador.png)](https://github.com/giordanamartins/projeto-integrador)
 
 `Node.js` · `Express` · `PostgreSQL` · `Axios` · `Tailwind`
 
